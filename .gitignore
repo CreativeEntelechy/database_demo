@@ -49,3 +49,4 @@ outputs/part2_notes.txt
 # Data Files
 *.csv
 *.db
+*.xlsx
