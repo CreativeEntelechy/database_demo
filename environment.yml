@@ -1,0 +1,13 @@
+name: db_assessment_env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy<2
+  - pandas
+  - jupyter
+  - quarto
+  - geopy
+  - sqlite
+  - matplotlib
+  - seaborn
